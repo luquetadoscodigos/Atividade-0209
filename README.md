@@ -135,4 +135,5 @@ git push origin main
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
 
-![Santos](./img/santos.webp)
+![São Paulo](<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/eb002fa1-be9f-462e-9489-60f61e3a47a7" />
+)
