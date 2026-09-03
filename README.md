@@ -94,5 +94,37 @@ git status
 git add . 
 git commit -m "Texto com descrição do que foi feito"
 git push origin main
+```
+> Uma boa citação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas 
 
 ```
+| Tecnologia | Finalidade | 
+| --- | --- |
+| Git | Controle e Versionamento |
+| GitHub | Hospedagem e Colaboração |
+| MarkDown | Documentação |
+```
+| Tecnologia | Finalidade | 
+| --- | --- |
+| Git | Controle e Versionamento |
+| GitHub | Hospedagem e Colaboração |
+| MarkDown | Documentação |
+
+```
+| Alinhamento à Esquerda | Alinhamento ao Centro | Alinhamento à Direita |
+| :--- | :---: | ---: |
+| Texto | Texto | Texto | 
+```
+| Alinhamento à Esquerda | Alinhamento ao Centro | Alinhamento à Direita |
+| :--- | :---: | ---: |
+| Texto | Texto | Texto | 
+
+## Imagem
+
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat-square)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
+
+![Santos](./img/santos.webp)
